@@ -1,6 +1,6 @@
 Step 1:
 
-Unzip the file.
+Clone the file.
 
 Step 2:
 
