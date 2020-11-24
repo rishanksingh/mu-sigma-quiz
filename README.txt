@@ -24,11 +24,4 @@ Login Details:
 Since this is a pure frontend app, I have made a static user.
 
 Username: rishanks
-Password: Uday@123
-
-Example of URL:
-
-react.org
-wikipedia.org
-udayy.com
-angular.org
+Password: Rishank@123
